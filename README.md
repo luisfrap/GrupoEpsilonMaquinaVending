@@ -5,7 +5,7 @@ Propietario: Jorge Márquez Ortega.
 
 Colaboradores: Óscar Sanchez Gallego y Álvaro Ruiz García.
 
-Queremos una máquina de Expendedora que divida los productor por celdas con unas 54 celdas distribuídas en 9 filas de 6 columnas cada una . 
+Queremos una máquina expendedora que divida los productor por celdas con unas 54 celdas distribuídas en 9 filas de 6 columnas cada una . 
 
 La máquina deverá estar debidamente protegina por un cristal de seguridad y anclada al suelo con espacio en los laterales para poder colocar carteles de publicidad si se quisiera. 
 
